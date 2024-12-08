@@ -1,0 +1,31 @@
+.favorite_candies {
+    background-color: #fff9ea;
+  }
+  .favorite_candies .container {
+    margin-top: 210px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 150px 0;
+  }
+  .favorite_candies .candys {
+    width: 370px;
+    height: 462px;
+    background: #fff;
+  }
+  .favorite_candies h3 {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 130%;
+    letter-spacing: 0.01em;
+    text-align: center;
+    margin-bottom: 0;
+  }
+  .favorite_candies p {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.01em;
+    text-align: center;
+    padding: 0 20px;
+  }

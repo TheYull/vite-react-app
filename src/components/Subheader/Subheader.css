@@ -1,0 +1,36 @@
+.subheader .container {
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-image: url(../../assets/first_picture.png);
+    background-repeat: no-repeat;
+    height: 600px;
+    background-position: right center;
+}
+.subheader .greetigs {
+    width: 50%;
+}
+.subheader p {
+    margin-bottom: 50px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.01em;
+}
+button {
+    font-weight: 500px;
+    font-size: 20px;
+    line-height: 130%;
+    letter-spacing: 0.01em;
+    text-align: center;
+    color: #fff;
+    background-color: #774e2e;
+    border: none;
+    padding: 20px;
+    width: 343px;
+    height: 69px;
+}
+button:hover {
+    background-color: #f37f34;
+}

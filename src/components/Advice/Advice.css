@@ -1,0 +1,34 @@
+
+.advice .container {
+    background-image: url(../../assets/second_picture.png);
+    background-repeat: no-repeat;
+    height: 722px;
+    background-position: right center;
+  }
+  .advice .advice_text {
+    width: 50%;
+  }
+  .advice h2 {
+    margin-top: 194px;
+    margin-bottom: 30px;
+  }
+  .advice p {
+    margin: 0;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.01em;
+  }
+  .advice h3 {
+    margin-top: 60px;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 130%;
+    letter-spacing: 0.01em;
+  }
+  .advice li {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.01em;
+  }
